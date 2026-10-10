@@ -54,9 +54,9 @@ I enjoy exploring technologies, solving real-world problems, and transforming id
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krumasx6&show_icons=true&hide_border=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krumasx6&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
