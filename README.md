@@ -1,20 +1,21 @@
-# Hey there! I'm Jayson Bautista 👋
+# Jayson Bautista
 
-### 💻 Computer Science Student | Developer | Tech Enthusiast
+**Computer Science Student | Software Development | Game Development | AI & Automation**
 
-I'm a Computer Science student from the Philippines 🇵🇭 with a passion for **software development, game development, and automation**.
+📍 Philippines
 
-I enjoy exploring technologies, solving real-world problems, and transforming ideas into functional applications. I'm continuously learning, experimenting, and improving my development skills.
+I build software, interactive systems, and automated workflows, with hands-on experience in game programming, application development, and AI integrations.
 
-### 👨‍💻 About Me
+My focus is on developing practical solutions, understanding the engineering principles behind them, and continuously expanding my technical capabilities through hands-on development.
 
-- 🎓 Pursuing a degree in **Computer Science**
-- 🎮 Interested in **Game Development and Interactive Systems**
-- 🤖 Exploring **AI, Automation, and Workflow Integration**
-- 🌐 Learning more about **Web and Mobile Development**
-- 🧠 Passionate about **Problem-Solving and Software Engineering**
-- 🚀 Always experimenting with new technologies and development tools
-- 📍 Based in the **Philippines**
+---
+
+### Areas of Focus
+
+- **Software Engineering** — Application development, programming fundamentals, and system architecture
+- **Game Development** — Gameplay systems, interactive mechanics, and game programming
+- **AI & Automation** — Workflow automation, API integrations, and AI-powered applications
+- **Web Development** — Responsive interfaces and functional web experiences
 
 ---
 
@@ -42,33 +43,18 @@ I enjoy exploring technologies, solving real-world problems, and transforming id
 
 ---
 
-### 🌱 Currently Exploring
-
-- Game mechanics, gameplay programming, and interactive experiences
-- AI-powered applications and intelligent automation
-- Software architecture and scalable development practices
-- Responsive web applications and mobile development
-- Modern development workflows and emerging technologies
-
----
-
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krumasx6&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krumasx6&layout=compact&hide_border=true&theme=transparent)
-
----
-
 ### 🏅 Certifications
 
 <p align="center">
   <a href="certificates/claude-academy-badge-claude-101.jpg">
-    <img src="certificates/claude-academy-badge-claude-101.jpg" width="400" alt="Claude 101">
+    <img src="certificates/claude-academy-badge-claude-101.jpg" width="350" alt="Claude 101">
   </a>
   <a href="certificates/claude-academy-badge-claude-code-101.jpg">
-    <img src="certificates/claude-academy-badge-claude-code-101.jpg" width="400" alt="Claude Code 101">
+    <img src="certificates/claude-academy-badge-claude-code-101.jpg" width="350" alt="Claude Code 101">
   </a>
+</p>
+
+<p align="center">
   <a href="certificates/data-analytics-essentials.jpg">
     <img src="certificates/data-analytics-essentials.jpg" width="400" alt="Data Analytics Essentials">
   </a>
@@ -85,26 +71,29 @@ I enjoy exploring technologies, solving real-world problems, and transforming id
     <img src="certificates/networking-basics.jpg" width="400" alt="Networking Basics">
   </a>
   <a href="certificates/techademy-project-manager.jpg">
-    <img src="certificates/techademy-project-manager.jpg" width="400" alt="Techademy Project Manager">
+    <img src="certificates/techademy-project-manager.jpg" width="400" alt="Project Management">
   </a>
   <a href="certificates/tesda-microsoft-azure.jpg">
-    <img src="certificates/tesda-microsoft-azure.jpg" width="400" alt="TESDA Microsoft Azure">
+    <img src="certificates/tesda-microsoft-azure.jpg" width="400" alt="Microsoft Azure">
   </a>
   <a href="certificates/tesda-microsoft-cybersecurity.jpg">
-    <img src="certificates/tesda-microsoft-cybersecurity.jpg" width="400" alt="TESDA Microsoft Cybersecurity">
+    <img src="certificates/tesda-microsoft-cybersecurity.jpg" width="400" alt="Microsoft Cybersecurity">
   </a>
 </p>
 
 ---
 
-### 🤝 Connect With Me
+### 📊 GitHub Statistics
 
-I'm always interested in learning, exchanging ideas, and collaborating with other developers.
-
-Feel free to explore my repositories or reach out!
-
-**Code. Create. Innovate.**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krumasx6&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krumasx6&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages">
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+### 🤝 Connect
+
+Open to technical discussions, collaboration, and opportunities in software development, game development, and automation.
+
+**GitHub:** [Krumasx6](https://github.com/Krumasx6)
