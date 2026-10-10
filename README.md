@@ -79,12 +79,21 @@ My focus is on developing practical solutions, understanding the engineering pri
   <a href="certificates/tesda-microsoft-cybersecurity.jpg">
     <img src="certificates/tesda-microsoft-cybersecurity.jpg" width="400" alt="Microsoft Cybersecurity">
   </a>
-  <a href="certificates/basic-2d-game-dev.jpeg">
-    <img src="certificates/basic-2d-game-dev.jpeg" width="400" alt="Microsoft Cybersecurity">
-  </a>
-  <a href="certificates/xpert.png">
-    <img src="certificates/xpert.png" width="400" alt="Microsoft Cybersecurity">
-  </a>
+  <a href="certificates/basic-2d-game-dev.jpg">
+  <img
+    src="certificates/basic-2d-game-dev.jpg"
+    width="400"
+    alt="Basic 2D Game Development"
+  >
+</a>
+
+<a href="certificates/xpert.png">
+  <img
+    src="certificates/xpert.png"
+    width="400"
+    alt="Xpert Certification"
+  >
+</a>
 </p>
 
 ---
