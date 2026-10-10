@@ -60,32 +60,38 @@ I enjoy exploring technologies, solving real-world problems, and transforming id
 
 ---
 
-### ## 🏅 Certifications
+### 🏅 Certifications
 
 <p align="center">
-  <a href="certificates/data-analytics-essentials.pdf">
-    <img src="certificates/data-analytics-essentials.png" width="400" alt="Data Analytics Essentials">
+  <a href="certs/claude-academy-badge-claude-101.jpg">
+    <img src="certs/claude-academy-badge-claude-101.jpg" width="400" alt="Claude 101">
   </a>
-  <a href="certificates/introduction-to-modern-ai.pdf">
-    <img src="certificates/introduction-to-modern-ai.png" width="400" alt="Introduction to Modern AI">
+  <a href="certs/claude-academy-badge-claude-code-101.jpg">
+    <img src="certs/claude-academy-badge-claude-code-101.jpg" width="400" alt="Claude Code 101">
   </a>
-  <a href="certificates/javascript-essentials.pdf">
-    <img src="certificates/javascript-essentials.png" width="400" alt="JavaScript Essentials">
+  <a href="certs/data-analytics-essentials.jpg">
+    <img src="certs/data-analytics-essentials.jpg" width="400" alt="Data Analytics Essentials">
   </a>
-  <a href="certificates/microsoft-it-support-specialist.jpeg">
-    <img src="certificates/microsoft-it-support-specialist.jpeg" width="400" alt="Microsoft IT Support Specialist">
+  <a href="certs/introduction-to-modern-ai.jpg">
+    <img src="certs/introduction-to-modern-ai.jpg" width="400" alt="Introduction to Modern AI">
   </a>
-  <a href="certificates/networking-basics.pdf">
-    <img src="certificates/networking-basics.png" width="400" alt="Networking Basics">
+  <a href="certs/javascript-essentials.jpg">
+    <img src="certs/javascript-essentials.jpg" width="400" alt="JavaScript Essentials">
   </a>
-  <a href="certificates/techademy-project-manager.pdf">
-    <img src="certificates/techademy-project-manager.png" width="400" alt="Project Management">
+  <a href="certs/microsoft-it-support-specialist.jpg">
+    <img src="certs/microsoft-it-support-specialist.jpg" width="400" alt="Microsoft IT Support Specialist">
   </a>
-  <a href="certificates/tesda-microsoft-azure-ai.pdf">
-    <img src="certificates/tesda-microsoft-azure-ai.png" width="400" alt="Microsoft Azure AI">
+  <a href="certs/networking-basics.jpg">
+    <img src="certs/networking-basics.jpg" width="400" alt="Networking Basics">
   </a>
-  <a href="certificates/tesda-microsoft-cybersecurity.pdf">
-    <img src="certificates/tesda-microsoft-cybersecurity.png" width="400" alt="Microsoft Cybersecurity">
+  <a href="certs/techademy-project-manager.jpg">
+    <img src="certs/techademy-project-manager.jpg" width="400" alt="Techademy Project Manager">
+  </a>
+  <a href="certs/tesda-microsoft-azure.jpg">
+    <img src="certs/tesda-microsoft-azure.jpg" width="400" alt="TESDA Microsoft Azure">
+  </a>
+  <a href="certs/tesda-microsoft-cybersecurity.jpg">
+    <img src="certs/tesda-microsoft-cybersecurity.jpg" width="400" alt="TESDA Microsoft Cybersecurity">
   </a>
 </p>
 
