@@ -46,8 +46,8 @@ My focus is on developing practical solutions, understanding engineering princip
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krumasx6&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub Statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krumasx6&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most Used Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Krumasx6&theme=github_dark" height="180" alt="GitHub Statistics">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krumasx6&theme=github_dark" height="180" alt="Most Used Languages">
 </p>
 
 <p align="center">
