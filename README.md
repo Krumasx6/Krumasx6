@@ -60,4 +60,4 @@ My focus is on developing practical solutions, understanding engineering princip
 
 Open to technical discussions, collaboration, and opportunities in software development, game development, and automation.
 
-**GitHub:** [Krumasx6](https://github.com/Krumasx6)
+**Portfolio** [Jayson Bautista](https://www.jaysonbautista.site/)
