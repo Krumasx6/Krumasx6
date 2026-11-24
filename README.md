@@ -16,6 +16,7 @@ My focus is on developing practical solutions, understanding engineering princip
 - **Game Development** — Gameplay systems, interactive mechanics, and game programming
 - **AI & Automation** — Workflow automation, API integrations, and AI-powered applications
 - **Web Development** — Responsive interfaces and functional web experiences
+- **Machine Learning** — Reinforcement learning, agent behavior, and evaluating learned policies against scripted baselines
 
 ---
 
